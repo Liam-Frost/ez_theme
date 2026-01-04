@@ -94,7 +94,9 @@ API基础URL可以在 `src/utils/baseConfig.js` 文件中修改。
 - 其他现代浏览器
 
 
-====================================================
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EZTHEME/EZ_THEME&type=date&legend=top-left)](https://www.star-history.com/#EZTHEME/EZ_THEME&type=date&legend=top-left)
 
 
 ## 域名授权保护概述
